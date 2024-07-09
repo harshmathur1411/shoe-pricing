@@ -42,7 +42,7 @@ body {
 {
    background-color: #e04553;
 }
-.box-2 .box1-btn
+.box-2 .box2-btn
 {
   background:#0d4ba3;
 }
@@ -60,7 +60,7 @@ body {
   height: 100%;
   overflow: hidden;
   position: absolute;
-  right: -6px;
+  right: 0px;
   top: -7px;
 }
 .shoe-img img
