@@ -12,6 +12,7 @@ body {
   margin-bottom: 30px;
   padding: 18px;
   border-radius: 5px;
+  position:relative;
 }
 .box-1 h2
 {
