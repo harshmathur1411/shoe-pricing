@@ -5,7 +5,7 @@ body {
 .pricing-container
 {
  max-width: 600px;
- margin: 0 auto;
+ margin: 30px auto;
 }
 .box {
   background: #fff;
@@ -37,6 +37,14 @@ body {
   font-size: 18px;
   opacity: 0.9;
   border: 0;
+}
+.box-2 .box-1-btn
+{
+  background:#0d4ba3;
+}
+.box-2 h2
+{
+  color:#0d4ba3;
 }
 .shoe-img
 {
