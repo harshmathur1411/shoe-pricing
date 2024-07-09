@@ -40,7 +40,7 @@ body {
 .shoe-img
 {
   width: 234px;
-  height: 156px;
+  height: 100%;
   overflow: hidden;
   position: absolute;
   right: -6px;
