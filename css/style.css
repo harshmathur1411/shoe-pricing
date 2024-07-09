@@ -7,6 +7,12 @@ body {
  max-width: 600px;
  margin: 0 auto;
 }
+.box-1 {
+  background: #fff;
+  margin-bottom: 30px;
+  padding: 18px;
+  border-radius: 5px;
+}
 .box-1 h2
 {
   color: #e04553;
@@ -29,4 +35,18 @@ body {
   font-size: 18px;
   opacity: 0.9;
   border: 0;
+}
+.shoe-img
+{
+  width: 234px;
+  height: 156px;
+  overflow: hidden;
+  position: absolute;
+  right: -6px;
+  top: -7px;
+}
+.shoe-img img
+{
+  width: 100%;
+    height: 100%;
 }
